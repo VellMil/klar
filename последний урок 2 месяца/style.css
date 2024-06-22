@@ -1,0 +1,102 @@
+.container{
+    width: 1220px;
+    margin: 0 auto;
+}
+.ota{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.baba{
+    width: 105px;
+    height: 40px;
+    color: white;
+    background-color: #2BD0D0; 
+    border: 0px;
+    border-radius: 20px;   
+}
+.bola1{
+display: flex;
+align-items: center;
+
+}
+h4{
+ color: gray;
+ margin-left: 20px;
+}
+h2{
+    font-size:xx-large;
+}
+.veve{
+    width: 197px;
+    height: 56px;
+    color: white;
+    background-color:  #2BD0D0;
+    border: 0px;
+    border-radius: 40px;
+}
+h1{
+    font-size: 60px;
+    color: #34313D;
+    margin: 10px;
+}
+p{
+    color: gray;
+    font-size: 20px;
+    margin: 10px;
+}
+.papa{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+img{
+ width: 733px;
+height: 482px;
+}
+.rere{
+    width: 188px;
+    height: 64px;
+    color: white;
+    background-color:  #2BD0D0;
+    border: 0px;
+    border-radius: 20px;
+}
+.blabla{
+    width: 197px;
+    height: 60.47px;
+    color: white;
+    background-color: #2BD0D0;
+    border: 0px;
+    border-radius: 35px;
+}
+.tutu{
+background-color: #4B3F6B;
+width: 900px;
+ height: 168px;
+display: flex;
+justify-content: center;
+gap: 30px;
+padding: 30px;
+position: absolute; 
+top: -50px; 
+border-radius: 10px; 
+}
+input{
+    width: ; 
+    border-radius: 10px; 
+    padding: 10px; 
+    border: none; 
+}
+.mama{ 
+    background-color: #34313D; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    position: relative; 
+    padding-bottom: 30px; 
+} 
+
+
+
+
